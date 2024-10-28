@@ -1,0 +1,6 @@
+[submodule "app/app/features"]
+	path = app/app/features
+	url = git@github.com:getquin/executable-specifications.git
+[submodule "app/features"]
+	path = app/features
+	url = git@github.com:getquin/executable-specifications.git
